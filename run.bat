@@ -1,0 +1,1 @@
+node ./bin/new app app_a

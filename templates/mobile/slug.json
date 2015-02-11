@@ -1,0 +1,19 @@
+{
+  "routes": [
+    { ""        : "./public" },
+    { "/test"    : "./test/public" }
+  ],
+  "dependencies": [
+    "es5-shimify", 
+    "json2ify", 
+    "jqueryify", 
+    "gfx",
+    "spine",
+    "spine/lib/local",
+    "spine/lib/ajax",
+    "spine/lib/route",
+    "spine/lib/manager",
+    "spine.mobile"
+  ],
+  "libs": []
+}
